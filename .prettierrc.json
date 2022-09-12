@@ -1,0 +1,8 @@
+{
+	"bracketSpacing": false,
+	"bracketSameLine": false,
+	"arrowParens": "always",
+	"semi": true,
+	"singleQuote": true,
+	"useTabs": true
+}
